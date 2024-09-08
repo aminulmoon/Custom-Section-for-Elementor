@@ -24,6 +24,9 @@ HTML Structure: The content is divided into sections for each step, including nu
 Inline CSS: Custom styles are applied directly within the HTML to ensure the visual design is consistent.
 Icons: Each step features an associated image, enhancing the visual understanding of each action.
 
+The Project Overview:
+Video Overview: https://www.loom.com/share/f9301fab060542c5b1bba6eeac9bcd65?sid=adbfc69b-4cfa-4bb8-a5ec-a527b66f9859
+
 Usage
 
 Simply copy and paste the provided HTML code into your project to implement this step-by-step guide. The layout and styles can be customized further to suit your specific design needs.
